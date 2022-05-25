@@ -6,7 +6,7 @@
   <!-- <a href="https://eyes.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Eyes</h1>
+<h1 align="center">Eye</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/gibranalcazar/eyes?color=56BEB8">
