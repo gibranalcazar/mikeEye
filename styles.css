@@ -22,7 +22,7 @@ body {
   position: relative;
   display: inline-block;
   top: 50%;
-  transform: translateY(-50%);
+  transform: translateY(-20%);
   width: 450px;
   height: 750px;
   text-align: center;
