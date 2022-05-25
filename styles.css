@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: rgb(24, 44, 103);
+  background: rgb(114, 153, 60);
   /* display: flex; */
   /* flex-direction: column; */
   /* align-items: center; */
@@ -45,12 +45,12 @@ img {
   left: 111px;
   width: 240px;
   height: 200px;
-  background: rgb(255, 255, 255);
   display: inline-block;
   margin: 5px;
   border-radius: 50%;
   overflow: hidden;
-  background: #c9b394;
+  /* background: #c9b394; */
+  background: rgb(255, 255, 255);
 }
 
 .ball {
