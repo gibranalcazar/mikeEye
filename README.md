@@ -35,7 +35,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="https://gibranalcazar.github.io/Eyes/">Run!</a> &#xa0; | &#xa0; 
+  <a href="https://gibranalcazar.github.io/mikeEye/">Run!</a> &#xa0; | &#xa0; 
   <a href="#pencil2-roadmap">Roadmap</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -47,7 +47,7 @@
 
 ## :dart: About ##
 
-This is a web application for testing mouse related events; in this case two objects are simulating eyes and they will move according to the mouse position. This project was developed as part of the Professional Certificate in coding: Full Stack Software Development by The Massachusetts Institute of Technology.
+This is a web application for testing mouse related events; in this case an objects simulates an eye and it will move according to the mouse position. This project was developed as part of the Professional Certificate in coding: Full Stack Software Development by The Massachusetts Institute of Technology.
 
 ## :sparkles: Features ##
 
